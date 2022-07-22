@@ -1,0 +1,18 @@
+.wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px 0;
+}
+
+.grey {
+    padding: 30px;
+    margin: 0 20px;
+    background-color: grey;
+}
+
+.green {
+    padding: 30px;
+    margin: 0 20px;
+    background-color: green;
+}
